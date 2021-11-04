@@ -1,4 +1,4 @@
-### Hello world 👋 <img src="https://raw.githubusercontent.com/<SunkissedQueen>/<SunkissedQueen>/master/greeter.gif" width="30px">
+### Hello world 👋 <img src="https://raw.githubusercontent.com/<SunkissedQueen>/<SunkissedQueen>/master/Users/learnacademy/Desktop/sunkissedqueen/greeter.gif" width="30px">
 
 
 <!--
