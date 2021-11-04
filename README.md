@@ -1,5 +1,5 @@
 ### Hello world 👋
-[greetings]: images/greeter.gif "greeter"
+![greetings](/images/greeter.gif)
 <!--
 **SunkissedQueen/sunkissedqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
