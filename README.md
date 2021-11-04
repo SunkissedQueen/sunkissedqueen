@@ -1,7 +1,6 @@
-[![Header](https://raw.githubusercontent.com/CharleanBaxter/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+### Hello world 👋 <img src="https://raw.githubusercontent.com/<SunkissedQueen>/<SunkissedQueen>/master/greeter.gif" width="30px">
 
-### Hello world 👋
-![greetings](file:///Users/learnacademy/Desktop/sunkissedqueen/images/greeter.gif)
+
 <!--
 **SunkissedQueen/sunkissedqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
