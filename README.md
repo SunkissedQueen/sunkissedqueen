@@ -1,5 +1,5 @@
-### Hello world 👋 <img src="https://raw.githubusercontent.com/<SunkissedQueen>/<SunkissedQueen>/master/Users/learnacademy/Desktop/sunkissedqueen/greeter.gif" width="30px">
-
+### Hello world 👋 
+![ Alt text](greeter.gif) / ![](greeter.gif)
 
 <!--
 **SunkissedQueen/sunkissedqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
