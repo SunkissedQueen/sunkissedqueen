@@ -1,5 +1,5 @@
 ### Hello world 👋 
-<img src="greeter.gif" width=300 align=center>
+<img src="greeter.gif" width=300 align=0 auto>
 
 - 🔭 I’m currently working on a capstone project with Team Code Crak.
 - 🌱 I’m currently learning how to become a syntactical magician as influenced by Learn Academy.
