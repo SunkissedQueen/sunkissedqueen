@@ -1,7 +1,7 @@
 ### Hello world 👋 
 <img src="greeter.gif" width=300 align=0 auto>
 
-- 🔭 Currently becoming the best Associate Instructor I can be for future coders at Learn Academy
+- 🔭 Currently hornoring the title of Lead Instructor
 - 🌱 Always practicing some syntactical magic
 - 👯 Looking forward to collaborating with various web developers in my former cohort
 - 🤔 Still learning the key concepts with various programming languages.
