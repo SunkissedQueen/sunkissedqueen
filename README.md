@@ -1,5 +1,5 @@
 ### Aloha world 🌺 👋 
-<img src="learn.gif" width=300 align=0 auto>
+<img src="greeter.gif" width=300 align=0 auto>
 
 - 🔭 Currently supporting web developers as a Lead Instructor
 - 🌱 Always practicing some syntactical magic
