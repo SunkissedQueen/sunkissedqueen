@@ -11,7 +11,7 @@
 
 💬 Ask me about anything. If I don't know, then WOO-HOO we get to research together.
 
-⚡️ Fun fact: My favorite human beings either call me Mom or Mee-Maw. 
+⚡️ Fun fact: I get to inspire, mentor, and support aspiring and seasoned web developers daily as an instructor at LEARN Academy. 
 
 
 
