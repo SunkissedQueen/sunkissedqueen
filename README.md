@@ -1,6 +1,11 @@
-### Aloha world 🌺 👋 
+## Aloha world 🌺 👋 
 <img src="cmb-profile.png" width=300 align=0 style="position: absolute; width: 60%; height: 50%; top: 0; left: 0; border: none; padding: 0;margin: 0;">
 
+## Guest Speaker Presentations
+[p5.js: Accessibility and Creativity](https://youtu.be/C7PmrAYjle8) with Women Who Code San Diego
+[ReactJS]()
+
+## Current Status
 👩‍💻 I'm currently working on my github repos. My excitement exposed me to several frameworks, so I planning to get some MVP closure on those projects. First will be my p5.js tutorial.
 
 🧠 I'm currently learning how to responsibly use ChatGPT and other AI products. This tool is very beneficial to researching newer concepts. 
