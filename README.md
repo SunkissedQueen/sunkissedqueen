@@ -8,7 +8,10 @@
 <h3>Full Stack Web Developer Skills</h3> 
 
 ***In progress:*** [**Processing**](https://processing.org/) \
-***Acquired:*** `HTML5` `CSS3` `SASS` `Flexbox` `Reactstrap` `Bootstrap` `JavaScript` `Git` `GitHub` `GitLab` `SQL` `PostgreSQL` `pgAdmin` `Postman` `Ruby` `React` `Ruby on Rails` `React Testing Library` `Enzyme` `Hyku` `Heroku` `Docker` `Agile Methodologies` `Trello` `Project Management` `Public Speaking` `Peer Reviews` `p5.js` `Training` `Software Development` `Software Security` `Software Quality` `Professional Ethics` `Figma` `Notion` `Zoom` `Google Teams` `Pages` `MicroSoft Office Suite` 
+***Acquired:*** `HTML5` `CSS3` `SASS` `Flexbox` `Reactstrap` `Bootstrap` `JavaScript` `Git` `GitHub` `GitLab` `SQL` `PostgreSQL` `pgAdmin` `Postman` `Ruby` `React` `Ruby on Rails` `React Testing Library` `Enzyme` `Hyku` `Heroku` `Docker` `Agile Methodologies` `Trello` `Project Management` `Public Speaking` `Peer Reviews` `p5.js` `Training` `Software Development` `Software Security` `Software Quality` `Professional Ethics` `Figma` `Notion` `Zoom` `Google Teams` `Pages` `MicroSoft Office Suite`
 
+<h3>Presentations</h3>
+
+[![YouTube](http://img.youtube.com/vi/C7PmrAYjle8/0.jpg)](https://www.youtube.com/watch?v=C7PmrAYjle8)
 
 
