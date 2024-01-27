@@ -51,7 +51,7 @@ Click image to view demo of app used for lightning talk and guest speaker presen
 
 </div> 
 
-<img align="right" height="300px" width="300px" alt="blue letter p dissected for processing foundation icon" src="https://github.com/SunkissedQueen/sunkissedqueen/blob/main/mental-health.png"/>
+<img align="right" height="250px" width="300px" alt="blue letter p dissected for processing foundation icon" src="https://github.com/SunkissedQueen/sunkissedqueen/blob/main/mental-health.png"/>
 
 ***Weekly Mental Health Awareness Session*** `Mental Health Mondays - Mental health awareness program for students balancing work, study, and personal life. It offers strategies for time management, stress reduction, and mindfulness, fostering a community of support and positivity. Through interactive workshops, peer support, wellness tips, and mind-body balance sessions, it aims to enhance students' well-being. No video included for privacy of participants.`  
 
